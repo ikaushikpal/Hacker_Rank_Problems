@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
     e=100
     i=0
-    l = k%n
+
     while e!=0:
         i = (i+k)%n
         if i==0:
