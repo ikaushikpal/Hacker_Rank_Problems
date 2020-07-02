@@ -12,4 +12,4 @@ for _ in range(0,n):
         else:
             print("Not found")
     except:
-        breaks
+        break
