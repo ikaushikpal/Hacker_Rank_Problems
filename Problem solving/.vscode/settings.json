@@ -1,6 +1,5 @@
 {
-    "editor.fontSize": 18,
-    "python.pythonPath": "C:\\anconda python\\python.exe",
+    "editor.fontSize": 16,
     "cSpell.ignoreWords": [
         "ec"
     ]
